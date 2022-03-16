@@ -45,8 +45,11 @@ This is a full explanation of the game that allows a person to understand why I 
 The first game ever played ended with a score of 15 to 12. This just shows how far the game has developed since that time. Usually ball games end with a score averaging in the onehundreds.
 
 # Greatest players
-Recently, the NBA came out with their list of the top seventy-five players to play. This list was compilled from the statistics, winnings, and accomplishments from each individual player. The [75th anniversary team](https://www.nba.com/news/nba-75th-anniversary-team-announced) describes the full list of those who had the tops of these cateogories from the last seventy-five years of professional sports. All of these players are either alredy inducted into the NBA Hall of Fame, or will be inducted after they retire. The intrigue that comes from this 
+Recently, the NBA came out with their list of the top seventy-five players to play. This list was compilled from the statistics, winnings, and accomplishments from each individual player. The [75th anniversary team](https://www.nba.com/news/nba-75th-anniversary-team-announced) describes the full list of those who had the tops of these cateogories from the last seventy-five years of professional sports. All of these players are either alredy inducted into the NBA Hall of Fame, or will be inducted after they retire. The intrigue that comes from this official list is the opinion of who is the greatest amoung these players.
+
 ### Argument of Lebron vs Jordan
+Everyone has an opinion about who the greatest basketball player of all time is, but the consensus has narrowed it down to only a handful of players. And the most popular of these is Michael Jordan and Lebron James. Both of these players are among the league leaders in every category, wins, and accomplishments. But it was their impact on the way the game was played that is the most important part of this disccusion. They changed the way other teams play against them, but they also changed the perception of the league as a whole as well. They brought about some of the most popular and thrilling performances in all of basketball history.
+
 ### Anyone else?
 #### What the sport means to me
 #### What I like about this discussion
