@@ -50,7 +50,11 @@ Recently, the NBA came out with their list of the top seventy-five players to pl
 ### Argument of Lebron vs Jordan
 Everyone has an opinion about who the greatest basketball player of all time is, but the consensus has narrowed it down to only a handful of players. And the most popular of these is Michael Jordan and Lebron James. Both of these players are among the league leaders in every category, wins, and accomplishments. But it was their impact on the way the game was played that is the most important part of this disccusion. They changed the way other teams play against them, but they also changed the perception of the league as a whole as well. They brought about some of the most popular and thrilling performances in all of basketball history.
 
-There have been an inumerable number of arguments and discussions made on the subject. One research was done in the search to find who was [statistically](https://github.com/belosgood/greatest-bball-player/blob/master/bball.ipynb)
+There have been an inumerable number of arguments and discussions made on the subject. One research was done in the search to find who was [statistically](https://github.com/belosgood/greatest-bball-player/blob/master/bball.ipynb) better. 
+
+Of course most of these 
+
+
 
 
 ### Anyone else?
