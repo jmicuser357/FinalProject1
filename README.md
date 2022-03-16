@@ -7,7 +7,7 @@ You can go through my website using these links
 
 * [Skills](./skills.md)
 * [Code Sample](./code_sample.md)
-* [Hobbies](./hobby.md)
+* [Hobbies](./Hobbies.md)
 * [Academy Performance](./marks.md)
 
 
