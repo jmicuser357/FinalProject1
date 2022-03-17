@@ -5,7 +5,7 @@ I am a student at Mizzou, and I have a lot of interests and hobbies.
 
 You can go through my website using these links
 
-* [Skills](./skills.md)
+* [Skills](./Skills.md)
 * [Code Sample](./CodeSample.md)
 * [Hobbies](./Hobbies.md)
 * [Academy Performance](./marks.md)
