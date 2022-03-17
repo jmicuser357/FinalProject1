@@ -13,91 +13,74 @@ You can go through my website using these links
 
 # Skills
 
-## My coding skills
-1. Competitive programming
-1. C language
-1. C++ language
-1. Python
-1. Markdown
+## My Skills
+1. Hard work
+2. pendability
+3. Creative Problem Solving
+4. Responsibility
 
-## Soft skills
-1. Leadership
-1. Responsibility
+
+A lot of what I have to offer comes from my hobbies and what not. There is something being said about being boastfull about your own technical skills and so forth. But I am still learning how to properly sell myself as it were.
+
+Also to be added
+
+- Hand-eye coordination
+- Resliliant
 
 [Go back to home page](./README.md)
 
-code_sample.md
 
 # Code Sample
+## HTML FIZZBUZZ CODE
+           var sum;
+           var i;
 
-Some of code sample written by me
 
-### HTML
-```html
-<!DOCTYPE html>
-<html>
-   <head>
-       <meta charset="UTF-8">
-       <title>Fizz Buzz</title>
-
-       <script>
-           function fizzbuzz() {
-           var display = document.getElementById('display');
-           var displayHTML = "";
-           for (i = 0; i < 100; i++) {
-           displayHTML += "<p>" + i + "</p>";
+           sum = 0;
+           for (i = 1; i < 101; i = i +1){
+           if (i % 3 == 0 && i % 5 == 0){
+           document.write("fizzbuzz", "<br>");
            }
-           display.innerHTML = displayHTML;
+           else if (i % 3 == 0){
+           document.write("fizz", "<br>");
            }
-       </script>
-   </head>
-   <body onload="fizzbuzz()">
-       <div id="display">
-       </div>
-   </body>
-</html>
-```
+           else if (i % 5 == 0){
+           document.write("buzz", "<br>");
+           }
+           else{
+           document.write(i, "<br>");
+           }
+      }
 
-### C code
-
-```c
-#include <stdio.h>
-int main() {
-// printf() displays the string inside quotation
-printf("Hello, World!");
-return 0;
-}
-```
+    </script>
+ </body>
 
 [return to home page](./README.md)
 
-hobby.md
+# Hobbies
 
-# Hobby
+I love basketball. It is the thing I am most passionate about other than psychology
 
-I _like_ to visit these sites as hobby-
+![James Naismith Pic](https://user-images.githubusercontent.com/101736848/158674081-14c54b38-51dc-4cb8-8974-b075ba04ee7b.jpg)
 
-* [Reddit](https://www.reddit.com)
-* [Twitter](https://www.twitter.com)
+I also play video games when I am not too busy
+
+Here is a list of my favorite video games
+
+Skyrim
+MW3
+Arkahm City
+NBA 2K22
 
 [return to home](./README.md)
 
-marks.md
+# Career Pursuits
 
-# Academy Performance
+>I have a lot to think about when it comes to my future, but I think I have a pretty good idea career wise what I want to do. With my bachelors in psychology, I would love to become a therapist/councelor and help others with finding meaning and purpose in life, as well as to help those struggling with inner demons and personal vices. Thats what I would love to do in the future.
 
-## My marks-
 
-| test | Maths | C language |
-| ------- |:-------:| -----:|
-| Test 1 | 10 | 8 |
-| Mid Sem | 20 | 20 |
-| End Sem | 65 | 69 |
+![minion_2](https://user-images.githubusercontent.com/101736848/158716166-428da810-5f57-424c-b294-f0c3f8f082e1.jpg)
+from chenyongjian133 in github repo
 
-## Certificates
-
-![Certificate 1](https://github.com/username/image.png)
-
-![Certificate 2](https://www.creativecertificates.com/wp-content/uploads/2014/03/certificate-of-excellence.jpg)
 
 [return to home](./README.md)
