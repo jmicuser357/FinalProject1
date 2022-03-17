@@ -67,10 +67,10 @@ I also play video games when I am not too busy
 
 Here is a list of my favorite video games
 
-Skyrim
-MW3
-Arkahm City
-NBA 2K22
+- [Skyrim](https://elderscrolls.fandom.com/wiki/Skyrim)
+- MW3
+- Arkahm City
+- NBA 2K22
 
 [return to home](./README.md)
 
