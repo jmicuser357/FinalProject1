@@ -8,7 +8,7 @@ You can go through my website using these links
 * [Skills](./Skills.md)
 * [Code Sample](./CodeSample.md)
 * [Hobbies](./Hobbies.md)
-* [Academy Performance](./marks.md)
+* [Career Pursuits](./CareerPursuit.md)
 
 
 # Skills
