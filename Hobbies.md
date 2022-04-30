@@ -1,14 +1,19 @@
-# Basketball and Gaming
-I **love** basketball. It is the thing I am most passionate about other than psychology
+<h1 id="basketballandgaming">Basketball and Gaming</h1>
 
+<p>I <strong>love</strong> basketball. It is the thing I am most passionate about other than psychology</p>
 
-![James Naismith Pic](https://user-images.githubusercontent.com/101736848/158674081-14c54b38-51dc-4cb8-8974-b075ba04ee7b.jpg)
+<p><img src="https://user-images.githubusercontent.com/101736848/158674081-14c54b38-51dc-4cb8-8974-b075ba04ee7b.jpg" alt="James Naismith Pic" /></p>
 
+<p>I also play video games when I am not <em>too</em> busy</p>
 
-I also play video games when I am not *too* busy
+<p>Here is a list of my favorite video games</p>
 
-Here is a list of my favorite video games
-1. Skyrim
-2. MW3
-3. Arkahm City
-4. NBA 2K22
+<ol>
+<li>Skyrim</li>
+
+<li>MW3</li>
+
+<li>Arkahm City</li>
+
+<li>NBA 2K22</li>
+</ol>
