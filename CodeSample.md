@@ -1,5 +1,6 @@
-# Code Sample
-Here is the code sample I used for completing the Fizzbuzz challenge
+<h1 id="codesample">Code Sample</h1>
+
+<p>Here is the code sample I used for completing the Fizzbuzz challenge</p>
 <!DOCTYPE html>
 <html>
     <head>
