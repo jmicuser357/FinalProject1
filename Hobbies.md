@@ -9,7 +9,7 @@
 <p>Here is a list of my favorite video games</p>
 
 <ol>
-<li>Skyrim</li>
+<li><a href="https://elderscrolls.fandom.com/wiki/Skyrim">Skyrim</a></li>
 
 <li>MW3</li>
 
