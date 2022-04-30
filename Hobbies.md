@@ -10,6 +10,8 @@
 
 <ol>
 <li><a href="https://elderscrolls.fandom.com/wiki/Skyrim">Skyrim</a></li>
+  a:link, a:visited, a:hover, a:active { background-color: green; color: white; padding: 10px 25px; text-align: center; text-decoration: none; display: inline-block; }
+
 
 <li>MW3</li>
 
